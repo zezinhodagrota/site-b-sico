@@ -1,0 +1,12 @@
+/*arquivo de stilo*/
+body{
+    margin: 0;/*espaço externo referente a outros elementos*/
+    padding: 0;/*espaço interno*/
+    font-family: Arial, Helvetica, sans-serif;/*escolher a opção de letra*/
+    background-color: #f7f7f7;/*cor de fundo da pagina*/
+
+}
+header{
+    background-color: #333;
+    
+}
