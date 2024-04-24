@@ -8,5 +8,41 @@ body{
 }
 header{
     background-color: #333;
-    
+    color: #fff;/*mudar a cor do texto*/
+    padding: 20px 0;
+    text-align: center;/*centralizar o texto*/
 }
+nav{
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+nav a{
+    color: #fff;
+    text-decoration: nome;
+    padding: 0 20px;
+}
+nav a:hover{
+    text-decoration:underline;
+}
+.container{
+    max-width: 800px;
+    background-color: #fff;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0, .1)/*colocar sombra*/
+}
+footer{
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+}
+
+
+
